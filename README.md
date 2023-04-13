@@ -11,7 +11,7 @@
 To do List
 </h1>
 
-<p align="center"> Site desenvolvido em HTML,CSS e Javascript puro, voltado para praticar oque aprendi nas aulas do curso de desenvolvimento web completo Udemy. As cores e o background foram feitos pensando nas cores de uma galáxia. </p>
+<p align="center"> Site desenvolvido em HTML,CSS e Javascript puro. Voltado para praticar o que aprendi nas aulas do curso de desenvolvimento web da Udemy. As cores e o background foram feitos pensando nas cores de uma galáxia. </p>
 <p> 
 <br>
 <strong> Acesse o site: https://todolist345.netlify.app <strong>
